@@ -50,7 +50,7 @@
     "popper.js": "^1.16.1",
     "profanities": "^2.12.1",
     "promise-queue": "^2.2.5",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "request": "^2.88.2",
     "response-time": "^2.3.2",
     "selectize": "0.12.4",
